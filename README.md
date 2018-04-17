@@ -52,8 +52,6 @@ For the versions available, see the [tags on this repository](https://github.com
 
 * **Oliver Lengyel** - [My GitHub](https://github.com/OliverLengyel/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * Typo3, "My first extension" tutorial
