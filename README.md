@@ -44,5 +44,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
+* Typo3, "My first extension" tutorial
 
