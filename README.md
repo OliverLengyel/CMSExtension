@@ -4,7 +4,7 @@ CMS Storage Extension with
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -28,17 +28,13 @@ Choose "Install Extension"
 Choose the Git-Project and install the Extension
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [My first Extension](https://github.com/TYPO3-Documentation-Examples/store_inventory) - The extension was used
+* [My first Extension](https://github.com/TYPO3-Documentation-Examples/store_inventory) - This extension was used
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/OliverLengyel/CMSExtension). 
+For the versions available, see the [tags on this repository](https://github.com/OliverLengyel/CMSExtension/tags). 
 
 ## Authors
 
