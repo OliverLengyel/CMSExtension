@@ -1,0 +1,23 @@
+<table border="1" cellspacing="1" cellpadding="5" style="border-radius: 4px; overflow: hidden,">
+	<tr>
+		<td style="padding: 20px">Produkt Name</td>
+		<td style="padding: 20px">Produkt Beschreibung</td>
+		<td style="padding: 20px">Anzahl</td>
+		<td style="padding: 20px">Bewertungen</td>
+	</tr>
+	<f:for each="{products}" as="product">
+		<tr>
+			<td align="top" style="padding: 20px">{product.name}</td>
+			<td align="top" style="padding: 20px"><f:format.crop maxCharacters="100">{product.description}</f:format.crop></td>
+			<td align="top" style="padding: 20px">{product.quantity}</td>
+			<td align="top" style="display:flex;flex-direction:column">
+				<f:for each="{product.bewertungen}" as="bewertung">
+					<div style="padding: 20px">
+						Von:{bewertung.autor}<br/>
+						{bewertung.description}
+					</div>
+				</f:for>
+			</td>
+		</tr>
+	</f:for>
+</table>
