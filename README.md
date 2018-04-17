@@ -22,7 +22,13 @@ Step 1
 Open the "Extension" Tab in Typo3
 ```
 
+Step 2
+
+```
 Choose "Install Extension"
+```
+
+Step 3
 
 ```
 Choose the Git-Project and install the Extension
