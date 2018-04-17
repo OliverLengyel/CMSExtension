@@ -25,7 +25,7 @@ Open the "Extension" Tab in Typo3
 Step 2
 
 ```
-Choose "Install Extension"
+Choose "Upload Extension"
 ```
 
 Step 3
