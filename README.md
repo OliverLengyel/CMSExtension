@@ -34,6 +34,12 @@ Step 3
 Choose the Git-Project and install the Extension
 ```
 
+Step 4
+
+```
+Rename the folder of the extension into "store_inventory"
+```
+
 ## Built With
 
 * [My first Extension](https://github.com/TYPO3-Documentation-Examples/store_inventory) - This extension was used
