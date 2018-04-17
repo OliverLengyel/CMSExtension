@@ -1,6 +1,6 @@
 # CMSExtension
 
-CMS Storage Extension with 
+CMS Storage Extension with recommendations
 
 ## Getting Started
 
